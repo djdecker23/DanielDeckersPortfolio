@@ -1,16 +1,17 @@
 nav ul {
   list-style: none;
-}
-
-.menu-item {
-  font-family: Garamond;
-  letter-spacing: 2px;
+  width: 444px;
+  float: right;
+  padding-right: 64px;
+  background-color: gray;
 }
 
 header {
   background-color: gray;
   padding: 24px;
   font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  justify-content: center;
 }
 
 .skillsContainer {
@@ -30,28 +31,28 @@ header {
 }
 
 .whoAmI {
-  float: left;
-  padding-right: 96px;
-  padding-left: 44px;
+  padding: 12px;
   text-align: center;
-  display: flex;
+  display: inline-block;
+  justify-content: center;
 }
 
 .logo {
-  float: left;
   align-items: center;
+  padding-left: 24px;
 }
 .menu-item {
   background-color: rgb(92, 119, 179);
   color: white;
-  display: inline-flex;
+  display: inline-block;
   height: 15.5px;
-  width: 64px;
   text-align: center;
   justify-content: center;
   padding: 14px;
-  padding-left: 24px;
-  padding-right: 24px;
+  font-family: Garamond;
+  letter-spacing: 2px;
+  vertical-align: top;
+  float: right;
 }
 
 .heroImage img {
