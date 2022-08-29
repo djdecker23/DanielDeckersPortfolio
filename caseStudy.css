@@ -1,0 +1,44 @@
+.accordion{
+    margin-left:222px;
+    margin-right: 222px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    background-color: #78BE21;
+}
+
+.accordion-header{
+    text-align: center;
+    margin: auto;
+}
+
+.CaseStudy{
+    background-color:  #78BE21;
+}
+
+.heroImage{
+    background-color: #133862;
+    align-content: center;
+    margin-top: 16px;
+    margin-left: 222px;
+    margin-right: 222px;
+}
+
+.work{
+    align-items: center;
+    text-align: center;
+}
+
+.resume{
+    margin: 64px;
+    background-color: #78BE21;
+}
+
+.contact{
+    text-align: center;
+    align-items: center;
+}
+
+.socialIcon img {
+    width: 44px;
+    height: 44px;
+  }

@@ -44,7 +44,6 @@ header {
 .menu-item {
   background-color: rgb(92, 119, 179);
   color: white;
-  display: inline-block;
   height: 15.5px;
   text-align: center;
   justify-content: center;
@@ -144,7 +143,4 @@ nav {
   width: 44px;
   height: 44px;
   padding: 20px;
-}
-
-text {
 }
